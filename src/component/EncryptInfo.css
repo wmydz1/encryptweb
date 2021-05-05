@@ -1,0 +1,68 @@
+.cus-text-editor {
+  border: 1px solid green;
+  min-height: 400px;
+}
+.show-more-opition {
+  margin-top: 0.5rem;
+}
+
+.more-option {
+  border: 1px solid red;
+  min-height: 180px;
+  width: 100%;
+}
+
+.more-option-desc {
+  font-size: 12px !important;
+}
+.confirm-btn {
+  margin: 0.4rem;
+}
+
+.ql-snow {
+  border: 0px !important;
+}
+.encrypt_note_tips {
+  font-size: 11px !important;
+  color: #333;
+  margin: 2px auto 8px auto !important;
+}
+.locked_png {
+  width: 13px !important;
+  height: 13px !important;
+  margin: 0px !important;
+}
+.copy_borad_btn {
+
+}
+
+.encrpty_link_note {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  height: 3rem;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 3rem;
+}
+.footer a {
+  text-decoration: none !important;
+}

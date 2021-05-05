@@ -1,0 +1,10 @@
+{
+  "SERVER_URL": "http://localhost:3000",
+  "brand": "Encrypt message",
+  "API_SERVER_URL": "http://localhost:8082",
+  "beian": "open source",
+  "THEME_COLORS": {
+    "PRIMARY": "#007bff",
+    "SECONDARY": "#fc3"
+  }
+}
